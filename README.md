@@ -1,0 +1,2 @@
+# Aru
+A grocery tracker
